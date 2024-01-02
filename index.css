@@ -18,7 +18,8 @@ body{
 }
 
 .inner{
-    width: 70%;
-    height: 70%;
+    width: 50%;
+    height: 80%;
     background-color:darkolivegreen;
+    border-radius: 5px;
 }
