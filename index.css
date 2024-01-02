@@ -26,7 +26,7 @@ body{
     flex-direction: column;
     /*justify-content: center;*/
     align-items: center;
-    padding-top: 20px;
+    padding-top: 50px;
 }
 
 .search input{
@@ -44,9 +44,13 @@ body{
 
 .image{
     margin-top: -100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .image img{
-    height: 50%;
-    width: 50%;
+    height: 70%;
+    width: 70%;
 }
