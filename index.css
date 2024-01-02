@@ -22,4 +22,18 @@ body{
     height: 80%;
     background-color:darkolivegreen;
     border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    /*justify-content: center;*/
+    align-items: center;
+    padding-top: 20px;
 }
+
+.search input{
+    width: 200px;
+    height: 30px;
+    padding: 0 10px;
+    border-radius: 7px;
+}
+
+.search
