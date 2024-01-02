@@ -2,3 +2,13 @@
     font-family: "Trebuchet MS";
 }
 
+body{
+    background-color: lightgray;
+}
+
+.outer{
+    height: 90vh;
+    width: 800px;
+    background-color: darkgrey;
+    margin: 0 auto;
+}
