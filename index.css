@@ -36,4 +36,8 @@ body{
     border-radius: 7px;
 }
 
-.search
+.search button{
+    height: 32px;
+    width: 90px;
+    border: 2px solid black;
+}
