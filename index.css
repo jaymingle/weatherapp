@@ -54,3 +54,7 @@ body{
     height: 70%;
     width: 70%;
 }
+
+.inner h3{
+    font-size: 34px;
+}
