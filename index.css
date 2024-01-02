@@ -57,4 +57,12 @@ body{
 
 .inner h3{
     font-size: 34px;
+    font-style: italic;
+}
+
+.weather-details{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 50px;
 }
